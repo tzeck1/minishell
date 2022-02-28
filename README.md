@@ -28,6 +28,6 @@ single and multible pipe(s), combination with redirections possible <br>
 ctrl-C, ctrl-D and ctrl-\ <br>
 
 ## Structure
-**1. Lexer:** tokenization of the input string e.g. "cat file | grep "A" > output_file" -> "CMD, ARGUMENT, PIPE, CMD, ARGUMENT, TRUNC, FILE" <br>
+**1. Lexer:** tokenization of the input string e.g. "CMD, ARGUMENT, PIPE, CMD, ARGUMENT, TRUNC, FILE" <br>
 **2. Parser:** filtering parser errors and quotes, redirects output for pipes and redirections, etc. <br>
 **3. Executor:** executes commands with arguments
