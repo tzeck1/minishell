@@ -15,7 +15,7 @@ We have restrictions which functions we're allowed to use (see [subject pdf](htt
 
 ## What we've implemented
 **-Own functions:**
-cd, pwd, env, exit, unset, export, echo <br>
+cd, pwd, env, exit, unset, export, echo (all other bash commands are implemented with execv)<br>
 **-A working history:**
 arrow key up/down <br>
 **-Single and double Quotes** <br>
