@@ -4,7 +4,7 @@
 
 ## Description of the subject
 Thanks to Minishell, you’ll be able to travel through time and come back to problems
-people faced when Windows didn’t exist. <br>
+people faced when Windows didn’t exist. <br> <br>
 We have restrictions which functions we're allowed to use (see [subject pdf](https://github.com/tzeck1/minishell/files/8154030/minishell.pdf)). In addition we have to format our code according to the schools [Norm](https://github.com/tzeck1/minishell/files/8154641/norm.pdf)
 #### **Full subject:** [minishell.pdf](https://github.com/tzeck1/minishell/files/8154030/minishell.pdf) <br>
 
@@ -14,15 +14,15 @@ We have restrictions which functions we're allowed to use (see [subject pdf](htt
 3. To start the programm: `./minishell`
 
 ## What we have implemented
-**own functions:**
+**-Own functions:**
 cd, pwd, env, exit, unset, export, echo <br>
-**a working history:**
+**-A working history:**
 arrow key up/down <br>
-**single and double quotes** <br>
-**redirections:**
+**-Single and double Quotes** <br>
+**-Redirections:**
 < (input), > (trunc), >> (append) and << (heredoc) <br>
-**pipes:**
+**-Pipes:**
 single and multible pipe(s), combination with redirections possible <br>
-**environment variables:** <br> 
-**Signals:**
+**-Environment Variables:** <br> 
+**-Signals:**
 ctrl-C, ctrl-D and ctrl-\ <br>
