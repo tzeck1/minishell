@@ -23,6 +23,6 @@ arrow key up/down <br>
 < (input), > (trunc), >> (append) and << (heredoc) <br>
 **-Pipes:**
 single and multible pipe(s), combination with redirections possible <br>
-**-Environment Variables:** <br> 
+**-Environment Variables** <br> 
 **-Signals:**
 ctrl-C, ctrl-D and ctrl-\ <br>
