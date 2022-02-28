@@ -13,7 +13,7 @@ We have restrictions which functions we're allowed to use (see [subject pdf](htt
 2. To create the execuatable run `make` <br>
 3. To start the programm: `./minishell`
 
-## What we have implemented
+## What we've implemented
 **-Own functions:**
 cd, pwd, env, exit, unset, export, echo <br>
 **-A working history:**
