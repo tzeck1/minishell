@@ -9,6 +9,7 @@ We have restrictions which functions we're allowed to use (see [subject pdf](htt
 #### **Full subject:** [minishell.pdf](https://github.com/tzeck1/minishell/files/8154030/minishell.pdf) <br>
 
 ## Installation
+*MacOS is recommended* <br>
 1. You might have to install the readline libary with `brew install readline` <br>
 2. To create the execuatable run `make` <br>
 3. To start the programm: `./minishell`
